@@ -1,0 +1,6 @@
+C:\Users\lenovo\source\repos\ConsoleApp9\client.cs\bin\Debug\client.cs.exe.config
+C:\Users\lenovo\source\repos\ConsoleApp9\client.cs\bin\Debug\client.cs.exe
+C:\Users\lenovo\source\repos\ConsoleApp9\client.cs\bin\Debug\client.cs.pdb
+C:\Users\lenovo\source\repos\ConsoleApp9\client.cs\obj\Debug\client.cs.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\ConsoleApp9\client.cs\obj\Debug\client.cs.exe
+C:\Users\lenovo\source\repos\ConsoleApp9\client.cs\obj\Debug\client.cs.pdb
